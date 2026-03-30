@@ -43,8 +43,13 @@ Heyy ✌️,
 <br/>
 
 <p>
+<!-- 
     <img src="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=nikabyn&theme=dark&custom_title=Programming%20languages&layout=compact&langs_count=30&exclude_repo=dotfiles&hide=html,css,scss,mdx,tex,jupyter%20notebook,astro,vue,cmake,just,procfile,gnuplot,makefile" hspace="10">
     <img src="https://github-readme-stats-livid-omega-28.vercel.app/api/top-langs/?username=nikabyn&theme=dark&custom_title=Other%20languages&layout=compact&langs_count=10&hide=rust,c%2B%2B,c,typescript,javascript,java,go,zig,lua,shell,python,wgsl,kotlin" hspace="10">
+-->
+
+  ![langs](https://github.com/user-attachments/assets/ca3a2820-7d58-4e76-89cf-ca057caaf9a6)
+  ![other](https://github.com/user-attachments/assets/5dba841c-e4fc-4d9a-b62f-696c4d58dfc7)
 </p>
 
 <br/>
