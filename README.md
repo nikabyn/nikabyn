@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Nika Sommer
+# Nika Sommer (she/they)
 
 Heyy ✌️,
 
@@ -34,11 +34,13 @@ Heyy ✌️,
 
 **I am working in / with –**
 
-`🦀 Rust` `📛 C/C++` `🧩 Kotlin` `🧶 JavaScript` `🐍 Python`
+`🦀 Rust` `📛 C/C++` `🧩 Kotlin` `🐍 Python` `🧶 JavaScript`
 
-`✨️ Graphics` `⚙️ Embedded`
+`✨️ Graphics` `⚙️ Embedded` `🗄️ DevOPs`
 
 `🧊 Blender` `🖌️ Figma`
+
+`❄️ NixOS` `🎩 fedora`
 
 <br/>
 
